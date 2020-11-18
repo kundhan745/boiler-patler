@@ -1,1 +1,2 @@
-# boiler-patler
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
